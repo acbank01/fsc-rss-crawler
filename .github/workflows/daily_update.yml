@@ -1,0 +1,37 @@
+name: Daily FSC RSS Fetcher
+
+on:
+  schedule:
+    # 每天台灣時間早上 9:00 執行 (UTC 1:00)
+    - cron: '0 1 * * *'
+  workflow_dispatch: # 讓你可以隨時點按鈕手動執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 賦予權限讓 Action 可以存檔回 Repository
+
+    steps:
+      - name: 檢出程式碼
+        uses: actions/checkout@v4
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安裝必要套件
+        run: pip install feedparser
+
+      - name: 執行抓取程式
+        run: python main.py
+
+      - name: 自動提交並更新 JSON 檔案
+        run: |
+          git config --local user.email "andychiu6201@gmail.com"
+          git config --local user.name "Andy Chiu (Auto Bot)"
+          git add fsc_news.json
+          # 如果檔案沒變動就不會報錯
+          git commit -m "自動更新金管會 RSS 資料: $(date +'%Y-%m-%d')" || exit 0
+          git push
