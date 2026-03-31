@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # 強制啟用新版環境
     permissions:
       contents: write # 賦予權限讓 Action 可以存檔回 Repository
 
