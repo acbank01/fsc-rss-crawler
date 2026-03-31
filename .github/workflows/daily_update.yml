@@ -5,6 +5,10 @@ on:
     - cron: '0 1 * * *'
   workflow_dispatch:
 
+# 全域設定：強制讓所有 Action 使用 Node.js 24 執行，消除 Deprecation 警告
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,11 +16,9 @@ jobs:
       contents: write
 
     steps:
-      # 建議直接寫 @v4，GitHub 會自動指向最新的 v4.x.x 次版本
       - name: 檢出程式碼
         uses: actions/checkout@v4
 
-      # 從 v4 升級到 v5 以支援 Node.js 24
       - name: 設定 Python 環境
         uses: actions/setup-python@v5
         with:
