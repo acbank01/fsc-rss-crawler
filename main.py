@@ -41,5 +41,5 @@ def fetch_fsc_rss(url):
     print(f"抓取完成！已儲存至 {file_name}，共 {len(news_list)} 筆資料。")
 
 if __name__ == "__main__":
-    FSC_RSS_URL = "https://www.fsc.gov.tw/ch/news/rss.aspx"
+    FSC_RSS_URL = "https://www.fsc.gov.tw/RSS/Messages?serno=201202290001&language=chinese"
     fetch_fsc_rss(FSC_RSS_URL)
