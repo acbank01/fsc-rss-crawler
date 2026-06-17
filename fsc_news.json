@@ -1,8 +1,15 @@
 {
-    "update_time": "2026-06-16 06:18:20",
+    "update_time": "2026-06-17 05:54:49",
     "source": "行政院金融監督管理委員會-重要公告",
     "total_count": 800,
     "items": [
+        {
+            "title": "公告中華民國一百十六年銀行業休假日期表如附件。",
+            "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202606160001&toolsflag=Y&dtable=Bulletin",
+            "description": "<div class=\"zbox\">\n<div class=\"main-a_01\">\n<div class=\"main-a_03\">金融監督管理委員會　公告&nbsp;<br />\n發文日期：中華民國115年6月16日<br />\n發文字號：金管銀國字第11502716281號<br />\n<br />\n主旨：公告中華民國一百十六年銀行業休假日期表如附件。<br />\n依據：銀行法第五十一條。<br />\n公告事項：中華民國一百十六年銀行業休假日期表。</div>\n</div>\n</div>",
+            "published": "2026-06-16",
+            "id": ""
+        },
         {
             "title": "修正各業別金融檢查手冊",
             "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202602260001&toolsflag=Y&dtable=Bulletin",
@@ -5594,13 +5601,6 @@
             "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=21590&toolsflag=Y&dtable=Bulletin",
             "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月30日<br />發文字號：金管保二字第09702526701號 </p><p>修正「財產保險商品審查應注意事項」部分規定，並自中華民國九十八年一月一日生效。<br />附修正「財產保險商品審查應注意事項」部分規定<br /></p>",
             "published": "2008-12-30",
-            "id": ""
-        },
-        {
-            "title": "訂定「保險業未適格再保險準備金提存方式」，並自中華民國九十八年一月一日生效",
-            "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=21589&toolsflag=Y&dtable=Bulletin",
-            "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月26日<br />發文字號：金管保一字第09702508101號 </p><p>訂定「保險業未適格再保險準備金提存方式」，並自中華民國九十八年一月一日生效。<br />附「保險業未適格再保險準備金提存方式」</p>",
-            "published": "2008-12-26",
             "id": ""
         }
     ]
