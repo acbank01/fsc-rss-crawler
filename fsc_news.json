@@ -1,8 +1,15 @@
 {
-    "update_time": "2026-07-01 05:12:48",
+    "update_time": "2026-07-02 04:49:12",
     "source": "行政院金融監督管理委員會-重要公告",
     "total_count": 800,
     "items": [
+        {
+            "title": "金融監督管理委員會為提升網路服務品質，預計於7月1日(週三) 19:00至22:00進行網路系統維護作業，屆時部分網站服務將偶有中斷，如造成您的不便，敬請見諒。",
+            "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202607010002&toolsflag=Y&dtable=Bulletin",
+            "description": "<div class=\"zbox\">\n<div class=\"main-a_01\">\n<div class=\"main-a_03\">金融監督管理委員會為提升網路服務品質，預計於7月1日(週三) 19:00至22:00進行網路系統維護作業，屆時部分網站服務將偶有中斷，如造成您的不便，敬請見諒。</div>\n</div>\n</div>",
+            "published": "2026-07-01",
+            "id": ""
+        },
         {
             "title": "公告中華民國一百十六年銀行業休假日期表如附件。",
             "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202606160001&toolsflag=Y&dtable=Bulletin",
@@ -5593,13 +5600,6 @@
             "title": "修正「保險商品銷售前程序作業準則」部分條文",
             "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=21592&toolsflag=Y&dtable=Bulletin",
             "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月30日<br />發文字號：金管保二字第09702526691號 </p><p>修正「保險商品銷售前程序作業準則」部分條文。<br />附修正「保險商品銷售前程序作業準則」部分條文</p>",
-            "published": "2008-12-30",
-            "id": ""
-        },
-        {
-            "title": "修正「財產保險商品審查應注意事項」部分規定，並自中華民國九十八年一月一日生效",
-            "link": "http://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=21590&toolsflag=Y&dtable=Bulletin",
-            "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月30日<br />發文字號：金管保二字第09702526701號 </p><p>修正「財產保險商品審查應注意事項」部分規定，並自中華民國九十八年一月一日生效。<br />附修正「財產保險商品審查應注意事項」部分規定<br /></p>",
             "published": "2008-12-30",
             "id": ""
         }
