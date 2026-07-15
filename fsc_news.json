@@ -1,5 +1,5 @@
 {
-    "update_time": "2026-07-14 03:49:20",
+    "update_time": "2026-07-15 03:50:18",
     "source": "行政院金融監督管理委員會-重要公告",
     "total_count": 800,
     "items": [
@@ -9,13 +9,6 @@
             "description": "",
             "published": "Wed, 08 Jul 2026 00:00:00 GMT",
             "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=202607080001&amp;toolsflag=Y&amp;dtable=Bulletin"
-        },
-        {
-            "title": "本會與四局全球資訊網及金融智慧網將於115年7月13日(一)下午17時30至20時30分進行系統維護作業，作業期間各項資訊網站偶有服務中斷現象，不便之處敬請見諒。",
-            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202607070001&toolsflag=Y&dtable=Bulletin",
-            "description": "<div class=\"zbox\">\n<div class=\"main-a_01\">\n<div class=\"main-a_03\">本會與四局全球資訊網及金融智慧網將於115年7月13日(一)下午17時30至20時30分進行系統維護作業，作業期間各項資訊網站偶有服務中斷現象，不便之處敬請見諒。</div>\n</div>\n</div>",
-            "published": "Tue, 07 Jul 2026 00:00:00 GMT",
-            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=202607070001&amp;toolsflag=Y&amp;dtable=Bulletin"
         },
         {
             "title": "公告中華民國一百十六年銀行業休假日期表如附件。",
@@ -5602,6 +5595,13 @@
             "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月30日<br />發文字號：金管保二字第09702526701號 </p><p>修正「財產保險商品審查應注意事項」部分規定，並自中華民國九十八年一月一日生效。<br />附修正「財產保險商品審查應注意事項」部分規定<br /></p>",
             "published": "Tue, 30 Dec 2008 00:00:00 GMT",
             "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=21593&amp;toolsflag=Y&amp;dtable=Bulletin"
+        },
+        {
+            "title": "修正「保險商品銷售前程序作業準則」部分條文",
+            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=21592&toolsflag=Y&dtable=Bulletin",
+            "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月30日<br />發文字號：金管保二字第09702526691號 </p><p>修正「保險商品銷售前程序作業準則」部分條文。<br />附修正「保險商品銷售前程序作業準則」部分條文</p>",
+            "published": "Tue, 30 Dec 2008 00:00:00 GMT",
+            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=21592&amp;toolsflag=Y&amp;dtable=Bulletin"
         }
     ]
 }
