@@ -1,8 +1,15 @@
 {
-    "update_time": "2026-08-25 02:09:26",
+    "update_time": "2026-08-26 02:15:32",
     "source": "行政院金融監督管理委員會-重要公告",
     "total_count": 800,
     "items": [
+        {
+            "title": "修正各業別金融檢查手冊",
+            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202608250001&toolsflag=Y&dtable=Bulletin",
+            "description": "<table class=\"feb_table feb_link\" id=\"table1\" style=\"width: 100%;\" summary=\"排版表格\">\n\t<tbody>\n\t\t<tr style=\"vertical-align: top;\">\n\t\t\t<td>一、</td>\n\t\t\t<td>配合法令異動及檢查實務需要，本局已完成115年上半年檢查手冊修訂（資料基準日：115年6月30日）。</td>\n\t\t</tr>\n\t\t<tr style=\"vertical-align: top;\">\n\t\t\t<td>二、</td>\n\t\t\t<td>檢查手冊分為「完整版」及「異動版」兩類，除專營信用卡業務機構及保險經紀人保險代理人公司按年更新外，餘金融控股公司等11業別自109年度起調整為每半年更新。「完整版」係呈現截至當期資料基準日之全部查核項目，每半年(或每年)更新資訊之對照則彙整於「異動版」，相關內容請參閱檢查業務專區之「<a href=\"https://www.feb.gov.tw/ch/home.jsp?id=279&amp;parentpath=0,4\" title=\"金融檢查手冊\">金融檢查手冊</a>」。</td>\n\t\t</tr>\n\t\t<tr style=\"vertical-align: top;\">\n\t\t\t<td>三、</td>\n\t\t\t<td>另本局已更新金融控股公司、本國銀行、外國銀行在臺分行、票券金融公司、保險公司、農會漁會信用部及提供虛擬資產服務之事業或人員等7業別防制洗錢及打擊資恐檢查手冊，相關內容請參閱「防制洗錢及打擊資恐專區」之「<a href=\"https://www.feb.gov.tw/ch/home.jsp?id=340&amp;parentpath=0,4,339\" title=\"各業別AML/CFT檢查手冊\">各業別AML/CFT檢查手冊</a>」。</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+            "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=202608250001&amp;toolsflag=Y&amp;dtable=Bulletin"
+        },
         {
             "title": "【停機公告】本會全球資訊網、民意信箱、永續金融網、金融智慧網、主管法規、 機關徵才等網站及網路相關設備將於 115 年 8 月 15 日(六)上午 8 時 至下午 8 時進行系統更新作業，更新期間各項資訊網站偶有服務中斷 現象，不便之處敬請見諒",
             "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202608140001&toolsflag=Y&dtable=Bulletin",
@@ -5595,13 +5602,6 @@
             "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月30日<br />發文字號：金管保四字第09702565301號 </p><p>修正「住宅地震保險危險分散機制實施辦法」。<br />附修正「住宅地震保險危險分散機制實施辦法」</p>",
             "published": "Tue, 30 Dec 2008 00:00:00 GMT",
             "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=21594&amp;toolsflag=Y&amp;dtable=Bulletin"
-        },
-        {
-            "title": "修正「財產保險商品審查應注意事項」部分規定，並自中華民國九十八年一月一日生效",
-            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=21593&toolsflag=Y&dtable=Bulletin",
-            "description": "<p>行政院金融監督管理委員會　令<br />發文日期：中華民國97年12月30日<br />發文字號：金管保二字第09702526701號 </p><p>修正「財產保險商品審查應注意事項」部分規定，並自中華民國九十八年一月一日生效。<br />附修正「財產保險商品審查應注意事項」部分規定<br /></p>",
-            "published": "Tue, 30 Dec 2008 00:00:00 GMT",
-            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=21593&amp;toolsflag=Y&amp;dtable=Bulletin"
         }
     ]
 }
