@@ -1,8 +1,15 @@
 {
-    "update_time": "2026-10-29 06:33:22",
+    "update_time": "2026-10-30 06:32:47",
     "source": "行政院金融監督管理委員會-重要公告",
-    "total_count": 13,
+    "total_count": 14,
     "items": [
+        {
+            "title": "【停機公告】金融監督管理委員會為提升網路服務品質，預計分別於本(115)年11月2日(週一) 及11月3日(週二) 12:30至13:30進行網路系統維護作業，屆時部分網站服務將偶有中斷，如造成您的不便，敬請見諒。",
+            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202610300001&toolsflag=Y&dtable=Bulletin",
+            "description": "<div class=\"zbox\">\n<div class=\"main-a_01\">\n<div class=\"main-a_03\">金融監督管理委員會為提升網路服務品質，預計分別於本(115)年11月2日(週一) 及11月3日(週二) 12:30至13:30進行網路系統維護作業，屆時部分網站服務將偶有中斷，如造成您的不便，敬請見諒。<br />\n<br />\n金融監督管理委員會　敬上</div>\n</div>\n</div>",
+            "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=202610300001&amp;toolsflag=Y&amp;dtable=Bulletin"
+        },
         {
             "title": "修正各業別金融檢查手冊",
             "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202608250001&toolsflag=Y&dtable=Bulletin",
