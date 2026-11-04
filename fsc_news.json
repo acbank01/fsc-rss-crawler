@@ -1,8 +1,15 @@
 {
-    "update_time": "2026-11-03 07:18:11",
+    "update_time": "2026-11-04 07:01:05",
     "source": "行政院金融監督管理委員會-重要公告",
-    "total_count": 14,
+    "total_count": 15,
     "items": [
+        {
+            "title": "【停機公告】中華電信公司預計於115年11月12日(四)19時至23時進行政府網際服務網(GSN)設備維護，本會全球資訊網、民意信箱、永續金融網、金融智慧網、主管法規、機關徵才等網站，於前開維護期間將有服務中斷現象，不便之處敬請見諒。",
+            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202611040001&toolsflag=Y&dtable=Bulletin",
+            "description": "<div class=\"zbox\">\n<div class=\"main-a_01\">\n<div class=\"main-a_03\">中華電信公司預計於115年11月12日(四)19時至23時進行政府網際服務網(GSN)設備維護，本會全球資訊網、民意信箱、永續金融網、金融智慧網、主管法規、機關徵才等網站，於前開維護期間將有服務中斷現象，不便之處敬請見諒。</div>\n</div>\n</div>",
+            "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=202611040001&amp;toolsflag=Y&amp;dtable=Bulletin"
+        },
         {
             "title": "【停機公告】金融監督管理委員會為提升網路服務品質，預計分別於本(115)年11月2日(週一) 及11月3日(週二) 12:30至13:30進行網路系統維護作業，屆時部分網站服務將偶有中斷，如造成您的不便，敬請見諒。",
             "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202610300001&toolsflag=Y&dtable=Bulletin",
