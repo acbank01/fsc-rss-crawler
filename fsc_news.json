@@ -1,8 +1,22 @@
 {
-    "update_time": "2026-11-23 08:20:01",
+    "update_time": "2026-11-24 10:29:40",
     "source": "行政院金融監督管理委員會-重要公告",
-    "total_count": 13,
+    "total_count": 15,
     "items": [
+        {
+            "title": "115年度證券商內部稽核座談會情形",
+            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202611240001&toolsflag=Y&dtable=Bulletin",
+            "description": "<div class=\"feb_link\" style=\"font-size: 1.2em;\">\n<p style=\"text-indent: 36px;\">檢查局為強化與證券商之溝通，並提升證券商內部稽核執行效能，於115年11月10日邀請22家證券商獨立董事、稽核主管及稽核人員進行座談。</p>\n\n<p style=\"text-indent: 36px;\">本次座談會議題邀請證券期貨局及元大證券分別簡報「證券商近期業務開放及監理重點」及「不限用途款項借貸管控」，檢查局亦針對「證券商檢查缺失案例」進行說明，並由政風室及人事室分別就廉政及性平議題進行宣導。此外，座談會更邀請本會證券期貨局、臺灣證券交易所、證券櫃檯買賣中心及證券商公會代表與會，與業者進行意見交流，針對業者提出內部稽核作業之相關建議，本會均逐一回應及充分溝通，俾協助業者強化內部控制及稽核制度。</p>\n\n<p style=\"text-indent: 36px;\">透過本次座談會之雙向交流，有助業者瞭解本會監理立場及檢查方向，未來仍將持續適時舉辦類似座談會，加強與業者之意見溝通，促進證券業之安全發展。</p>\n\n<p style=\"text-indent: 36px;\">本次座談會議程已置於檢查局「重要公告」及「稽核專區」網頁：意見交流＞座談會或說明會資訊＞證券業。</p>\n</div>",
+            "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=202611240001&amp;toolsflag=Y&amp;dtable=Bulletin"
+        },
+        {
+            "title": "【停機公告】金融監督管理委員會為提升網路服務品質，預計於本(115)年11月24日(週二) 12:30至13:30進行網路系統維護作業，屆時部分網站服務將偶有中斷，如造成您的不便，敬請見諒。",
+            "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202611230001&toolsflag=Y&dtable=Bulletin",
+            "description": "<div class=\"zbox\">\n<div class=\"main-a_01\">\n<div class=\"main-a_03\">金融監督管理委員會為提升網路服務品質，預計於本(115)年11月24日(週二) 12:30至13:30進行網路系統維護作業，屆時部分網站服務將偶有中斷，如造成您的不便，敬請見諒。<br />\n<br />\n金融監督管理委員會　敬上</div>\n</div>\n</div>",
+            "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+            "id": "https://www.fsc.gov.tw/ch/home.jsp?id=97&amp;parentpath=0,2&amp;mcustomize=multimessage_view.jsp&amp;dataserno=202611230001&amp;toolsflag=Y&amp;dtable=Bulletin"
+        },
         {
             "title": "修正各業別金融檢查手冊",
             "link": "https://www.fsc.gov.tw/ch/home.jsp?id=97&parentpath=0,2&mcustomize=multimessage_view.jsp&dataserno=202608250001&toolsflag=Y&dtable=Bulletin",
